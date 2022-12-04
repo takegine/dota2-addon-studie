@@ -1,6 +1,6 @@
-# dota2前端教学
+# title
+一个学习dota2自定义地图的聚集地
 
-这里分享教程中演示的源码
-
-## 视频网址
-* 
+# 快速跳转
+[讨论](https://github.com/takegine/dota2-addon-studie/discussions)
+[百科](https://github.com/takegine/dota2-addon-studie/wiki)
